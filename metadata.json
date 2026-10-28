@@ -1,0 +1,6 @@
+{
+  "name": "Inconsciente Dinámico: Metapsicología Freudiana y Flujo de Ricci",
+  "description": "Modelo analógico riguroso del inconsciente dinámico freudiano formalizado con el flujo de Ricci con cirugía de Perelman, el Horn Torus y la topología de Poincaré.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
